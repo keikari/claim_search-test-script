@@ -1,0 +1,170 @@
+Server:       spv18.lbry.com
+Channels:     11
+Claims found: 6068
+Total time:   26.59s
+Claims/s:     228.2
+
+@rossmanngroup(1000):         4.5s
+@cc(112):                     0.35s
+@lbryfoundation(121):         0.4s
+@distrotube(1000):            4.29s
+@luke(517):                   2.32s
+@thelinuxgamer(752):          3.34s
+@lbryfoundationpodcast(214):  0.92s
+@lbry(324):                   1.35s
+@odysee(107):                 0.42s
+@dollarvigilante(1000):       4.95s
+@upperechelongamers(921):     3.73s
+
+@rossmanngroup(1000)
+Total time: 4.5s
+Page: 0     0.29s
+Page: 1     0.28s
+Page: 2     0.24s
+Page: 3     0.31s
+Page: 4     0.24s
+Page: 5     0.26s
+Page: 6     0.25s
+Page: 7     0.25s
+Page: 8     0.23s
+Page: 9     0.21s
+Page: 10    0.2s
+Page: 11    0.24s
+Page: 12    0.21s
+Page: 13    0.22s
+Page: 14    0.14s
+Page: 15    0.14s
+Page: 16    0.17s
+Page: 17    0.23s
+Page: 18    0.18s
+Page: 19    0.21s
+
+@cc(112)
+Total time: 0.35s
+Page: 0     0.22s
+Page: 1     0.13s
+
+@lbryfoundation(121)
+Total time: 0.4s
+Page: 0     0.25s
+Page: 1     0.16s
+
+@distrotube(1000)
+Total time: 4.29s
+Page: 0     0.26s
+Page: 1     0.24s
+Page: 2     0.17s
+Page: 3     0.25s
+Page: 4     0.23s
+Page: 5     0.15s
+Page: 6     0.33s
+Page: 7     0.27s
+Page: 8     0.26s
+Page: 9     0.25s
+Page: 10    0.14s
+Page: 11    0.14s
+Page: 12    0.2s
+Page: 13    0.16s
+Page: 14    0.15s
+Page: 15    0.15s
+Page: 16    0.24s
+Page: 17    0.24s
+Page: 18    0.22s
+Page: 19    0.24s
+
+@luke(517)
+Total time: 2.32s
+Page: 0     0.23s
+Page: 1     0.15s
+Page: 2     0.24s
+Page: 3     0.27s
+Page: 4     0.26s
+Page: 5     0.26s
+Page: 6     0.24s
+Page: 7     0.27s
+Page: 8     0.21s
+Page: 9     0.18s
+
+@thelinuxgamer(752)
+Total time: 3.34s
+Page: 0     0.29s
+Page: 1     0.14s
+Page: 2     0.23s
+Page: 3     0.2s
+Page: 4     0.23s
+Page: 5     0.25s
+Page: 6     0.23s
+Page: 7     0.2s
+Page: 8     0.26s
+Page: 9     0.38s
+Page: 10    0.26s
+Page: 11    0.22s
+Page: 12    0.17s
+Page: 13    0.21s
+Page: 14    0.05s
+
+@lbryfoundationpodcast(214)
+Total time: 0.92s
+Page: 0     0.29s
+Page: 1     0.21s
+Page: 2     0.25s
+Page: 3     0.18s
+
+@lbry(324)
+Total time: 1.35s
+Page: 0     0.26s
+Page: 1     0.24s
+Page: 2     0.15s
+Page: 3     0.25s
+Page: 4     0.24s
+Page: 5     0.2s
+
+@odysee(107)
+Total time: 0.42s
+Page: 0     0.3s
+Page: 1     0.13s
+
+@dollarvigilante(1000)
+Total time: 4.95s
+Page: 0     0.24s
+Page: 1     0.24s
+Page: 2     0.2s
+Page: 3     0.24s
+Page: 4     0.23s
+Page: 5     0.23s
+Page: 6     0.22s
+Page: 7     0.24s
+Page: 8     0.2s
+Page: 9     0.25s
+Page: 10    0.24s
+Page: 11    0.28s
+Page: 12    0.47s
+Page: 13    0.24s
+Page: 14    0.26s
+Page: 15    0.25s
+Page: 16    0.24s
+Page: 17    0.26s
+Page: 18    0.21s
+Page: 19    0.22s
+
+@upperechelongamers(921)
+Total time: 3.73s
+Page: 0     0.28s
+Page: 1     0.24s
+Page: 2     0.19s
+Page: 3     0.25s
+Page: 4     0.14s
+Page: 5     0.23s
+Page: 6     0.28s
+Page: 7     0.23s
+Page: 8     0.17s
+Page: 9     0.25s
+Page: 10    0.2s
+Page: 11    0.16s
+Page: 12    0.16s
+Page: 13    0.22s
+Page: 14    0.15s
+Page: 15    0.25s
+Page: 16    0.22s
+Page: 17    0.1s
+
